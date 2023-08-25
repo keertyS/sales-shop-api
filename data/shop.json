@@ -1,0 +1,385 @@
+[
+    {
+        "id": "1",
+        "name": "Body and Soul",
+        "description": "Founded in 2005, BODY & SOUL was born out of passion for clothing and fashion apparel.",
+        "phoneNumber": "+230 5948 3546",
+        "staffIds": ["1"],
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6-HGRTbleC5fJnKSGOXFe6NuZPL4RNnuabERuDeLEA&s",
+        "ProductItems": [
+            {
+                "id": "11",
+                "name": "JOLENE METAL PL",
+                "description": "Knitted jumper in Nude.",
+                "price": 900,
+                "category": "main",
+                "picture": "https://bodyandsoul.mu/media/catalog/product/cache/de286d92cd436b028292234fca2c9e2b/E/1/E1020907_6091001600157_1_1_6.jpg"
+            },
+            {
+                "id": "12",
+                "name": "KNOTTY METAL PL",
+                "description": "Tie knot blouse in Burnt Ochre.",
+                "price": 800,
+                "category": "main",
+                "picture": "https://bodyandsoul.mu/media/catalog/product/cache/de286d92cd436b028292234fca2c9e2b/E/1/E1018227_6091001385795_1_1_7.jpg"
+            },
+            {
+                "id": "13",
+                "name": "PARTY PREMIUM",
+                "description": "Party dress in Black",
+                "price": 2200,
+                "category": "main",
+                "picture": "https://bodyandsoul.mu/media/catalog/product/cache/55366e0401718cf78a8509236c402f4e/E/1/E1020830_6091001591820_1_1_5.jpg"
+            },
+            {
+                "id": "14",
+                "name": "DOFANCY RED LIN",
+                "description": "Checkered pants in Black",
+                "price": 1300,
+                "category": "main",
+                "picture": "https://bodyandsoul.mu/media/catalog/product/cache/55366e0401718cf78a8509236c402f4e/E/1/E1020603_6091001567801_1_1_5.jpg"
+            },
+            {
+              "id": "15",
+              "name": "MATHEUS LILFLO",
+              "description": "Long sleeve shirt in White",
+              "price": 1200,
+              "category": "main",
+              "picture": "https://bodyandsoul.mu/media/catalog/product/cache/55366e0401718cf78a8509236c402f4e/E/1/E1020245_6091001535855_1_1_7.jpg"
+          },
+          {
+            "id": "16",
+            "name": "TRUCKER PU JACK",
+            "description": "Biker jacket in Black",
+            "price": 3000,
+            "category": "main",
+            "picture": "https://bodyandsoul.mu/media/catalog/product/cache/55366e0401718cf78a8509236c402f4e/E/1/E1020395_6091001548695_1_1_5.jpg"
+        }
+        ]
+    },
+    {
+        "id": "2",
+      "name": "Roxy",
+      "description": "Roxy was born in the water; initially a swimwear line, it debuted in late summer 1990 to immediate success.",
+      "phoneNumber": "+230 5473 3746",
+      "staffIds": ["7" , "8"],
+      "logo": "https://1000logos.net/wp-content/uploads/2017/06/Logo-Roxy.jpg",
+      "ProductItems": [
+          {
+            "id": "11",
+              "name": "Summer Breeze Sandals",
+              "description": "Experience the ultimate summer comfort with our ROXY Summer Breeze Sandals.",
+              "price": 3000,
+              "category": "main",
+              "picture": "https://images.boardriders.com/globalGrey/roxy-products/all/default/hi-res/arjl200844_roxy,p_cre_frt1.jpg"
+          },
+          {
+              "id": "12",
+              "name": "Sweetest Shores Puff Sleeve Dress",
+              "description": "Crafted from printed viscose fabric to give it a light and airy feel.",
+              "price": 3200,
+              "category": "main",
+              "picture":"https://images.boardriders.com/globalGrey/roxy-products/all/default/hi-res/arjwd03527_roxy,w_kvj8_frt1.jpg"
+          },
+          {
+              "id": "13",
+              "name": "Midnight New Avenue Wide Leg Pants",
+              "description": "Our ROXY Midnight New Avenue Wide Leg Pants are crafted from eco-conscious mid-weight printed fabric ",
+              "price": 3500,
+              "category": "main",
+              "picture":"https://images.boardriders.com/globalGrey/roxy-products/all/default/hi-res/erjnp03536_roxy,w_nme6_frt1.jpg"
+          },
+          {
+              "id": "14",
+              "name": "Surf.Kind.Kate. Short Sleeve One-Piece Swimsuit",
+              "description": "Drawing the eye with print blocking and stitch detailing to compliment your shape",
+              "price": 6000,
+              "category": "main",
+              "picture":"https://images.boardriders.com/globalGrey/roxy-products/all/default/hi-res/erjwr03646_roxy,m_ctl6_frt1.jpg"
+          },
+          {
+            "id": "15",
+            "name": "Set Your Sights Sherpa Jacket",
+            "description": "As cooler days creep in, we have a soft spot for the Set Your Sights Sherpa Jacket.",
+            "price": 5500,
+            "category": "main",
+            "picture":"https://images.boardriders.com/globalGrey/roxy-products/all/default/hi-res/erjpf03081_roxy,l_bsp2_frt1.jpg"
+        },
+        {
+          "id": "16",
+          "name": "Sundaze Sweater",
+          "description": "BCrafted from a cozy cotton-blend fabric",
+          "price": 4500,
+          "category": "main",
+          "picture": "https://images.boardriders.com/globalGrey/roxy-products/all/default/hi-res/arjsw03307_roxy,m_mfr6_frt1.jpg"
+      }
+      ]
+  },
+    {
+        "id": "3",
+        "name": "IslandHaze",
+        "description": "Island Haze was launched in 2008 by targeting a young audience with a colourful and fun style",
+        "phoneNumber": "+230 5985 9342",
+        "staffIds": ["3", "4"],
+        "logo": "data:image/png;base64,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",
+        "ProductItems": [
+            {
+                "id": "11",
+                "name": "DOTTY SS22",
+                "description": "Short sleeves fine knitted polo top in orange",
+                "price": 700,
+                "category": "main",
+                "picture": "https://islandhaze.mu/media/catalog/product/cache/55366e0401718cf78a8509236c402f4e/E/1/E1018592_6091001423176_1_1_5.jpg"
+            },
+            {
+                "id": "12",
+                "name": "DYLAN HIGHWAIST",
+                "description": "Skinny high waist jean in dark grey",
+                "price": 1300,
+                "category": "main",
+                "picture": "https://islandhaze.mu/media/catalog/product/cache/55366e0401718cf78a8509236c402f4e/E/1/E1017902_6091001360631_1_1_5.jpg"
+            },
+            {
+                "id": "13",
+                "name": "GFIVER LEATHER P",
+                "description": "Chino straight fit pants in cathay spice",
+                "price": 1200,
+                "category": "main",
+                "picture": "https://islandhaze.mu/media/catalog/product/cache/55366e0401718cf78a8509236c402f4e/E/1/E1017214_6091001322653_1_1_7.jpg"
+            },
+            {
+                "id": "14",
+                "name": "SFIVER DK GREY",
+                "description": "Chino straight fit pants in dark grey",
+                "price": 1200,
+                "category": "main",
+                "picture": "https://islandhaze.mu/media/catalog/product/cache/55366e0401718cf78a8509236c402f4e/E/1/E1017212_6091001322493_1_1_6.jpg"
+            }
+          
+        ]
+    },
+    {
+        "id": "4",
+        "name": "WoolWorths",
+        "description": "Founded in Cape Town in 1931, Woolworths SA is South Africa’s largest retailer with more than 700 store locations throughout South Africa and 10 other African countries.",
+        "phoneNumber": "+230 5431 0383",
+        "staffIds": ["5"],
+        "logo": "https://1000logos.net/wp-content/uploads/2018/07/Woolworths-Logo.png",
+        "ProductItems": [
+            {
+                "id": "11",
+                "name": "SS23 AC POPOVER TOP",
+                "description": "PSMART LS WOVEN TOP",
+                "price": 1175,
+                "category": "main",
+                "picture": "https://c9t4d4h3.rocketcdn.me/wp-content/uploads/2023/07/16/506974298_XBLACK_hero-600x840.jpg"
+            },
+            {
+                "id": "12",
+                "name": "S23 3-4 PUFF SLV TIE",
+                "description": "S23 3-4 PUFF SLV TIERED MAXI DRESS",
+                "price": 2450,
+                "category": "main",
+                "picture": "https://c9t4d4h3.rocketcdn.me/wp-content/uploads/2023/07/22/506905146_XBLACK_hero-600x840.jpg"
+            },
+            {
+                "id": "13",
+                "name": "SS23 PKT THREE QUAR",
+                "description": "PSS23 PKT THREE QUARTER SLEEVE TEE",
+                "price": 1350,
+                "category": "main",
+                "picture": "https://c9t4d4h3.rocketcdn.me/wp-content/uploads/2023/07/22/506901438_DARKBLUE_hero-600x840.jpg"
+            },
+            {
+              "id": "14",
+              "name": "SS23 SJ CORE GEO SHO",
+              "description": "PSS23 SJ CORE GEO SHORT",
+              "price": 800,
+              "category": "main",
+              "picture": "https://c9t4d4h3.rocketcdn.me/wp-content/uploads/2023/07/22/506847130_XGREYMELANGE_detail-600x840.jpg"
+          },
+          {
+              "id": "15",
+              "name": "SS23 SMOCKED SLV TIE",
+              "description": "SS23 SMOCKED SLV TIERED MAXI DRESS",
+              "price": 1700,
+              "category": "main",
+              "picture": "https://c9t4d4h3.rocketcdn.me/wp-content/uploads/2023/07/20/506951180_BLACK_hero-600x840.jpg"
+          }
+        ]
+    },
+  {
+    "id": "5",
+    "name": "QuikSilver",
+    "description": "Quiksilver is a brand of surf-inspired apparel and accessories that was founded in 1969 in Torquay, Victoria.",
+    "phoneNumber": "+230 5362 3948",
+    "staffIds": ["9"],
+    "logo": "https://1000logos.net/wp-content/uploads/2021/12/Quicksilver-Logo-1969.png",
+    "ProductItems": [
+        {
+            "id": "11",
+            "name": "Boy's 2-7 Trackpant Joggers",
+            "description": "classic fit with an elastic waistband, pockets.",
+            "price": 1800,
+            "category": "main",
+            "picture": "https://images.boardriders.com/globalGrey/quiksilver-products/all/default/xlarge/eqkfb03109_quiksilver,f_sjsh_frt1.jpg"
+        },
+        {
+            "id": "12",
+            "name": "Tie Dye Stripe T-Shirt",
+            "description": "Good looks, big energy, easy comfort..",
+            "price": 1500,
+            "category": "main",
+            "picture": "https://images.boardriders.com/globalGrey/quiksilver-products/all/default/xlarge/eqbzt04623_quiksilver,f_kvj0_frt1.jpg"
+        },
+        {
+            "id": "13",
+            "name": "Boy's 2-7 Great Otway Zip-Up Hoodie",
+            "description": "Regular-fit hooded sweatshirt has a kangaroo pouch pocket.",
+            "price": 1000,
+            "category": "main",
+            "picture": "https://images.boardriders.com/globalGrey/quiksilver-products/all/default/hi-res/eqkft03387_quiksilver,f_byg3_bck1.jpg"
+        },
+        {
+            "id": "14",
+            "name": "Boy's 8-16 Omni Logo Hoodie",
+            "description": "Regular fit, with a kangaroo pouch pocket and timeless logo graphic print at chest and back",
+            "price": 2300,
+            "category": "main",
+            "picture": "https://images.boardriders.com/globalGrey/quiksilver-products/all/default/hi-res/eqbft03857_quiksilver,f_kvj0_frt1.jpg"
+        },
+        {
+          "id": "15",
+          "name": "Boy's 2-7 Taxer Beach Cruiser Shorts",
+          "description": "Crafted of organic cotton fabric, these eco-conscious volley shorts have a baggy fit and a long length",
+          "price": 1150,
+          "category": "main",
+          "picture": "https://images.boardriders.com/globalGrey/quiksilver-products/all/default/xlarge/eqknp03064_quiksilver,f_ckk0_frt1.jpg"
+      },
+      {
+        "id": "16",
+        "name": "Boy's 8-16 Easy Day Joggers",
+        "description": "French terry comfort with tried and true surf style",
+        "price": 900,
+        "category": "main",
+        "picture": "https://images.boardriders.com/globalGrey/quiksilver-products/all/default/xlarge/eqbfb03144_quiksilver,f_xbbb_frt1.jpg"
+    }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Jetha Tulsidas",
+    "description": "Jetha Tulsidas, finds its initial foundations in 1911, with the arrival of the family's ancestor Chuharmal Tulsidas in Mauritius.",
+    "phoneNumber": "+230 5756 3748",
+    "staffIds": ["10"],
+    "logo": "data:image/jpeg;base64,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",
+    "ProductItems": [
+        {
+            "id": "11",
+            "name": "CHURIDHAR-GEORGETTE-LP CHURI LS-AVLI",
+            "description": "A graceful and stylish combination for traditional occasions..",
+            "price": 6500,
+            "category": "main",
+            "picture": "https://files.elastik.mu/files/jethatulsidassons/erp/items/CD105DAA-6997-FFA6-B2C7-FD735EF0A29B/O4000003221-03%20_Copy_.jpg"
+        },
+        {
+            "id": "12",
+            "name": "LAD KURTI-GOWN-RAYON-RANI",
+            "description": " A majestic and fashionable attire choice",
+            "price": 600,
+            "category": "main",
+            "picture": "https://files.elastik.mu/files/jethatulsidassons/erp/items/67776CDC-4B3F-8779-EEC0-0FEE8DB88036/5527040012148J_8588e232239098fa0406458c4f5afacd.jpg"
+        },
+        {
+            "id": "13",
+            "name": "BEACHWEAR-KAFTAN",
+            "description": "Effortless style and comfort for sunny days by the water",
+            "price": 890,
+            "category": "main",
+            "picture": "https://files.elastik.mu/files/jethatulsidassons/erp/items/42193C8D-7935-8DA6-D5F2-8A80DF506BCB/SD-26507%20_1_.jpg"
+        },
+        {
+            "id": "14",
+            "name": "LEHENGAS-SATIN-SEMI-STITCH",
+            "description": "Semi-stitched for a perfect blend of elegance and convenience",
+            "price": 1700,
+            "category": "main",
+            "picture": "https://files.elastik.mu/files/jethatulsidassons/erp/items/66CBF404-F4E4-4D81-1FD3-4F19AB79A7EF/13180104490023_2e087208d0b201c4d83896baeba34fee.jpg"
+        },
+        {
+          "id": "15",
+          "name": "MENSWEAR-SEMI SHERWAN-PESHWARI-PESH",
+          "description": "classic choice for timeless style",
+          "price": 4300,
+          "category": "main",
+          "picture": "https://files.elastik.mu/files/jethatulsidassons/erp/items/4F62F7F4-1826-6670-6C64-AE7774229913/01370800560838_6a49235f5b26c44f4adcf9381bdd633c.jpg"
+      },
+      {
+        "id": "16",
+        "name": "MENSWEAR-SHERWANIS-CHURI-KRISH1",
+        "description": "Elevate your ethnic look with this stunning attire",
+        "price": 10000,
+        "category": "main",
+        "picture": "https://files.elastik.mu/files/jethatulsidassons/erp/items/1F49F9DF-6947-29FB-301C-845396DCAF3E/01011601400338_6c650035e83f34103ad1aff639054110.jpg"
+    }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Oui Oui Fashion",
+    "description": "The conceptual birth of Oui Oui has been a long time in the making, with the brand officially making its debut in 2019",
+    "phoneNumber": "+230 5849 3049",
+    "staffIds": ["11"],
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSDDLZsucwctaqRWgpGixn9N1fp3xIcbfrTQ&usqp=CAU",
+    "ProductItems": [
+        {
+            "id": "11",
+            "name": " VIP BURGUNDY DETACHABLE SLEEVES DRESS",
+            "description": "Elegant burgundy dress with detachable sleeves for versatile styling",
+            "price": 1500,
+            "category": "main",
+            "picture": "https://lh3.googleusercontent.com/p/AF1QipN-cp6OSNM8u5S1qgh8SgaKM7XEMAlJznpNgvxZ=w600-h0"
+        },
+        {
+            "id": "12",
+            "name": "VIP LACE TATTOOAJE DRESS",
+            "description": "Intricate lace detailing, flattering silhouette.",
+            "price": 1800,
+            "category": "main",
+            "picture": "https://lh3.googleusercontent.com/p/AF1QipOrJiUCCb9vHEwZbVCpTRZ6nAhIPXAPPfUHPqYs=w600-h0"
+        },
+        {
+            "id": "13",
+            "name": "VIP VELVET OPEN BACK DRESS",
+            "description": "Luxurious, captivating, and perfect for making a statement at special occasions.",
+            "price": 1900,
+            "category": "main",
+            "picture": "https://lh3.googleusercontent.com/p/AF1QipMyhTly-pgcmdyjEqrpYu7uu7mG_Ncy0oGQaw2s=w600-h0"
+        },
+        {
+            "id": "14",
+            "name": "VIP MIRROR BALOON SLEEVES DRESS",
+            "description": "Elegance with a touch of flair",
+            "price": 2000,
+            "category": "main",
+            "picture": "https://lh3.googleusercontent.com/p/AF1QipNcxILXqtTSrSN_re0bSOJpAnsMpNo6l7grh7fj=w600-h0"
+        },
+        {
+          "id": "15",
+          "name": "VIP SILVER SEQUIN BLAZER DRESS",
+          "description": " Sparkle and sophistication combined in one dazzling outfit.",
+          "price": 1200,
+          "category": "main",
+          "picture": "https://lh3.googleusercontent.com/p/AF1QipNWmTMYl2izdFGK-vNUiw7p3x08xTLAzYgVROmZ=w600-h0"
+      },
+      {
+        "id": "16",
+        "name": "VIP PRINCESS DRESS",
+        "description": "A dreamy and regal ensemble fit for royalty",
+        "price": 3200,
+        "category": "main",
+        "picture": "https://lh3.googleusercontent.com/p/AF1QipNuGSrGrRzn5ls65cuwG4YvV0VLlL8X24g4QD7v=w600-h0"
+    }
+]
+  }
+]

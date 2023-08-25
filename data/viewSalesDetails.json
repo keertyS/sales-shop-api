@@ -1,0 +1,3445 @@
+[
+    {
+      "id": 1,
+      "shopName": "Body & Soul",
+      "date": "2023-07-17",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "JOLENE METAL PL",
+          "quantity": 5,
+          "salesAmount": 4500
+          
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "shopName": "Body & Soul",
+      "date": "2023-07-17",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "KNOTTY METAL PL",
+          "quantity": 3,
+          "salesAmount": 2400,
+          "status":"Pending"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "shopName": "Body & Soul",
+      "date": "2023-07-17",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "PARTY PREMIUM",
+          "quantity": 2,
+          "salesAmount": 4400,
+          "status":"Pending"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "shopName": "Body & Soul",
+      "date": "2023-07-17",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "DOFANCY RED LIN",
+          "quantity": 4,
+          "salesAmount": 5200,
+          "status":"Pending"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "shopName": "Body & Soul",
+      "date": "2023-07-17",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "MATHEUS LILFLO",
+          "quantity": 5,
+          "salesAmount": 6000,
+          "status":"Pending"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "shopName": "Body & Soul",
+      "date": "2023-07-17",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "TRUCKER PU JACK",
+          "quantity": 6,
+          "salesAmount": 18000
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "shopName": "Body & Soul",
+      "date": "2023-07-18",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "JOLENE METAL PL",
+          "quantity": 1,
+          "salesAmount": 900
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "shopName": "Body & Soul",
+      "date": "2023-07-18",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "KNOTTY METAL PL",
+          "quantity": 5,
+          "salesAmount": 4000,
+          "status":"Pending"
+        }
+      ]
+    },
+   {
+      "id": 9,
+      "shopName": "Body & Soul",
+      "date": "2023-07-18",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "PARTY PREMIUM",
+          "quantity": 2,
+          "salesAmount": 4000,
+          "status":"Pending"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "shopName": "Body & Soul",
+      "date": "2023-07-18", 
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "DOFANCY RED LIN",
+          "quantity": 4,
+          "salesAmount": 5200
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "shopName": "Body & Soul",
+      "date": "2023-07-18",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "MATHEUS LILFLO",
+          "quantity": 2,
+          "salesAmount": 2400,
+          "status":"Pending"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "shopName": "Body & Soul",
+      "date": "2023-07-18",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "TRUCKER PU JACK",
+          "quantity": 3,
+          "salesAmount": 9000
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "shopName": "Body & Soul",
+      "date": "2023-07-19",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "JOLENE METAL PL",
+          "quantity": 1,
+          "salesAmount": 900
+          
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "shopName": "Body & Soul",
+      "date": "2023-07-19",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "KNOTTY METAL PL",
+          "quantity": 7,
+          "salesAmount": 5600,
+          "status":"Pending"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "shopName": "Body & Soul",
+      "date": "2023-07-19",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "PARTY PREMIUM",
+          "quantity": 3,
+          "salesAmount": 6600
+          
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "shopName": "Body & Soul",
+      "date": "2023-07-19",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "DOFANCY RED LIN",
+          "quantity": 3,
+          "salesAmount": 3900
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "shopName": "Body & Soul",
+      "date": "2023-07-19",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "MATHEUS LILFLO",
+          "quantity": 9,
+          "salesAmount": 10800
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "shopName": "Body & Soul",
+      "date": "2023-07-19",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "TRUCKER PU JACK",
+          "quantity": 8,
+          "salesAmount": 24000
+        }
+      ]
+    },
+  {
+      "id": 19,
+      "shopName": "Body & Soul",
+      "date": "2023-07-20",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "JOLENE METAL PL",
+          "quantity": 7,
+          "salesAmount": 6300
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "shopName": "Body & Soul",
+      "date": "2023-07-20",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "KNOTTY METAL PL",
+          "quantity": 1,
+          "salesAmount": 800
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "shopName": "Body & Soul",
+      "date": "2023-07-20",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "PARTY PREMIUM",
+          "quantity": 0,
+          "salesAmount": 0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "shopName": "Body & Soul",
+      "date": "2023-07-20",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "DOFANCY RED LIN",
+          "quantity": 2,
+          "salesAmount": 2600
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "shopName": "Body & Soul",
+      "date": "2023-07-20",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "MATHEUS LILFLO",
+          "quantity": 1,
+          "salesAmount": 1200
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "shopName": "Body & Soul",
+      "date": "2023-07-20",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "TRUCKER PU JACK",
+          "quantity": 1,
+          "salesAmount": 3000
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "shopName": "Body & Soul",
+      "date": "2023-07-21",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "JOLENE METAL PL",
+          "quantity": 6,
+          "salesAmount": 5400
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "shopName": "Body & Soul",
+      "date": "2023-07-21",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "KNOTTY METAL PL",
+          "quantity": 1,
+          "salesAmount": 800
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "shopName": "Body & Soul",
+      "date": "2023-07-21",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "PARTY PREMIUM",
+          "quantity": 0,
+          "salesAmount": 0
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "shopName": "Body & Soul",
+      "date": "2023-07-21",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "DOFANCY RED LIN",
+          "quantity": 4,
+          "salesAmount": 5200
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "shopName": "Body & Soul",
+      "date": "2023-07-21",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "MATHEUS LILFLO",
+          "quantity": 5,
+          "salesAmount": 6000
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "shopName": "Body & Soul",
+      "date": "2023-07-21",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "TRUCKER PU JACK",
+          "quantity": 1,
+          "salesAmount": 3000
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "shopName": "Body & Soul",
+      "date": "2023-07-22",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "JOLENE METAL PL",
+          "quantity": 10,
+          "salesAmount": 9000
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "shopName": "Body & Soul",
+      "date": "2023-07-22",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "KNOTTY METAL PL",
+          "quantity": 3,
+          "salesAmount": 2400
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "shopName": "Body & Soul",
+      "date": "2023-07-22",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "PARTY PREMIUM",
+          "quantity": 12,
+          "salesAmount": 26400
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "shopName": "Body & Soul",
+      "date": "2023-07-22",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "DOFANCY RED LIN",
+          "quantity": 1,
+          "salesAmount": 1300
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "shopName": "Body & Soul",
+      "date": "2023-07-22",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "MATHEUS LILFLO",
+          "quantity": 9,
+          "salesAmount": 10800
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "shopName": "Body & Soul",
+      "date": "2023-07-22",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "TRUCKER PU JACK",
+          "quantity": 6,
+          "salesAmount": 18000
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "shopName": "Body & Soul",
+      "date": "2023-07-23",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "JOLENE METAL PL",
+          "quantity": 5,
+          "salesAmount": 4500
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "shopName": "Body & Soul",
+      "date": "2023-07-23",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "KNOTTY METAL PL",
+          "quantity": 7,
+          "salesAmount": 5600
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "shopName": "Body & Soul",
+      "date": "2023-07-23",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "PARTY PREMIUM",
+          "quantity": 3,
+          "salesAmount": 6600
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "shopName": "Body & Soul",
+      "date": "2023-07-23",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "DOFANCY RED LIN",
+          "quantity": 14,
+          "salesAmount": 18200
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "shopName": "Body & Soul",
+      "date": "2023-07-23",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "MATHEUS LILFLO",
+          "quantity": 6,
+          "salesAmount": 7200
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "shopName": "Body & Soul",
+      "date": "2023-07-23",
+      "status":"Pending",
+      "itemsSold": [
+        {
+          "itemName": "TRUCKER PU JACK",
+          "quantity": 16,
+          "salesAmount": 48000
+        }
+      ]
+    },
+    {
+        "id": 43,
+        "shopName": "Roxy",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Summer Breeze Sandals",
+            "quantity": 8,
+            "salesAmount": 24000
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "shopName": "Roxy",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sweetest Shores Puff Sleeve Dress",
+            "quantity": 17,
+            "salesAmount": 54440
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "shopName": "Roxy",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Surf.Kind.Kate. Short Sleeve One-Piece Swimsuit",
+            "quantity": 21,
+            "salesAmount": 12600
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "shopName": "Roxy",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Set Your Sights Sherpa Jacket",
+            "quantity": 1,
+            "salesAmount": 5500
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "shopName": "Roxy",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sundaze Sweater",
+            "quantity": 6,
+            "salesAmount": 27000
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "shopName": "Roxy",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Summer Breeze Sandals",
+            "quantity": 15,
+            "salesAmount": 45000
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "shopName": "Roxy",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sweetest Shores Puff Sleeve Dress",
+            "quantity": 7,
+            "salesAmount": 22400
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "shopName": "Roxy",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Surf.Kind.Kate. Short Sleeve One-Piece Swimsuit",
+            "quantity": 2,
+            "salesAmount": 1200
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "shopName": "Roxy",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Set Your Sights Sherpa Jacket",
+            "quantity": 4,
+            "salesAmount": 22000
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "shopName": "Roxy",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sundaze Sweater",
+            "quantity": 10,
+            "salesAmount": 45000
+          }
+        ]
+      },
+    {
+        "id": 53,
+        "shopName": "Roxy",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Summer Breeze Sandals",
+            "quantity": 9,
+            "salesAmount": 27000
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "shopName": "Roxy",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sweetest Shores Puff Sleeve Dress",
+            "quantity": 5,
+            "salesAmount": 16000
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "shopName": "Roxy",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Surf.Kind.Kate. Short Sleeve One-Piece Swimsuit",
+            "quantity": 13,
+            "salesAmount": 7800
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "shopName": "Roxy",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Set Your Sights Sherpa Jacket",
+            "quantity": 10,
+            "salesAmount": 55000
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "shopName": "Roxy",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sundaze Sweater",
+            "quantity": 3,
+            "salesAmount": 13500
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "shopName": "Roxy",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Summer Breeze Sandals",
+            "quantity": 2,
+            "salesAmount": 6000
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "shopName": "Roxy",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sweetest Shores Puff Sleeve Dress",
+            "quantity": 8,
+            "salesAmount": 25600
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "shopName": "Roxy",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Surf.Kind.Kate. Short Sleeve One-Piece Swimsuit",
+            "quantity": 17,
+            "salesAmount": 10200
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "shopName": "Roxy",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Set Your Sights Sherpa Jacket",
+            "quantity": 4,
+            "salesAmount": 22000
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "shopName": "Roxy",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sundaze Sweater",
+            "quantity": 16,
+            "salesAmount": 72000
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "shopName": "Roxy",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Summer Breeze Sandals",
+            "quantity": 15,
+            "salesAmount": 45000
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "shopName": "Roxy",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sweetest Shores Puff Sleeve Dress",
+            "quantity": 7,
+            "salesAmount": 22400
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "shopName": "Roxy",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Surf.Kind.Kate. Short Sleeve One-Piece Swimsuit",
+            "quantity": 3,
+            "salesAmount": 9000
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "shopName": "Roxy",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Set Your Sights Sherpa Jacket",
+            "quantity": 20,
+            "salesAmount": 110000
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "shopName": "Roxy",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sundaze Sweater",
+            "quantity": 10,
+            "salesAmount": 45000
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "shopName": "Roxy",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Summer Breeze Sandals",
+            "quantity": 2,
+            "salesAmount": 6000
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "shopName": "Roxy",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sweetest Shores Puff Sleeve Dress",
+            "quantity": 8,
+            "salesAmount": 25600
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "shopName": "Roxy",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Surf.Kind.Kate. Short Sleeve One-Piece Swimsuit",
+            "quantity": 17,
+            "salesAmount": 10200
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "shopName": "Roxy",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Set Your Sights Sherpa Jacket",
+            "quantity": 4,
+            "salesAmount": 22000
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "shopName": "Roxy",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sundaze Sweater",
+            "quantity": 16,
+            "salesAmount": 72000
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "shopName": "Roxy",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Summer Breeze Sandals",
+            "quantity": 15,
+            "salesAmount": 45000
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "shopName": "Roxy",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sweetest Shores Puff Sleeve Dress",
+            "quantity": 7,
+            "salesAmount": 22400
+          }
+        ]
+      },
+      {
+        "id": 75,
+        "shopName": "Roxy",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Surf.Kind.Kate. Short Sleeve One-Piece Swimsuit",
+            "quantity": 3,
+            "salesAmount": 1800
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "shopName": "Roxy",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Set Your Sights Sherpa Jacket",
+            "quantity": 20,
+            "salesAmount": 110000
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "shopName": "Roxy",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sundaze Sweater",
+            "quantity": 10,
+            "salesAmount": 45000
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "shopName": "Roxy",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Summer Breeze Sandals",
+            "quantity": 10,
+            "salesAmount": 30000
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "shopName": "Roxy",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sweetest Shores Puff Sleeve Dress",
+            "quantity": 17,
+            "salesAmount": 54400
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "shopName": "Roxy",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Surf.Kind.Kate. Short Sleeve One-Piece Swimsuit",
+            "quantity": 9,
+            "salesAmount": 5400
+          }
+        ]
+      },
+      {
+        "id": 81,
+        "shopName": "Roxy",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Set Your Sights Sherpa Jacket",
+            "quantity": 5,
+            "salesAmount": 27500
+          }
+        ]
+      },
+      {
+        "id": 82,
+        "shopName": "Roxy",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sundaze Sweater",
+            "quantity": 7,
+            "salesAmount": 31500
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "shopName": "Roxy",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Summer Breeze Sandals",
+            "quantity": 5,
+            "salesAmount": 15000
+          }
+        ]
+      },
+      {
+        "id": 84,
+        "shopName": "Roxy",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sweetest Shores Puff Sleeve Dress",
+            "quantity": 7,
+            "salesAmount": 22400
+          }
+        ]
+      },
+      {
+        "id": 85,
+        "shopName": "Roxy",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Surf.Kind.Kate. Short Sleeve One-Piece Swimsuit",
+            "quantity": 2,
+            "salesAmount": 1200
+          }
+        ]
+      },
+      {
+        "id": 86,
+        "shopName": "Roxy",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Set Your Sights Sherpa Jacket",
+            "quantity": 4,
+            "salesAmount": 22000
+          }
+        ]
+      },
+      {
+        "id": 87,
+        "shopName": "Roxy",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Sundaze Sweater",
+            "quantity": 6,
+            "salesAmount": 27000
+          }
+        ]
+      },
+      {
+        "id": 88,
+        "shopName": "IslandHaze",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DOTTY SS22",
+            "quantity": 9,
+            "salesAmount": 6300
+          }
+        ]
+      },
+      {
+        "id": 89,
+        "shopName": "IslandHaze",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DYLAN HIGHWAIST",
+            "quantity": 8,
+            "salesAmount": 10400
+          }
+        ]
+      },
+      {
+        "id": 90,
+        "shopName": "IslandHaze",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "GFIVER LEATHER P",
+            "quantity": 4,
+            "salesAmount": 4800
+          }
+        ]
+      },
+      {
+        "id": 91,
+        "shopName": "IslandHaze",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SFIVER DK GREY",
+            "quantity": 3,
+            "salesAmount": 3600
+          }
+        ]
+      },
+      {
+        "id": 92,
+        "shopName": "IslandHaze",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DOTTY SS22",
+            "quantity": 10,
+            "salesAmount": 7000
+          }
+        ]
+      },
+      {
+        "id": 93,
+        "shopName": "IslandHaze",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DYLAN HIGHWAIST",
+            "quantity": 7,
+            "salesAmount": 9100
+          }
+        ]
+      },
+      {
+        "id": 94,
+        "shopName": "IslandHaze",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "GFIVER LEATHER P",
+            "quantity": 2,
+            "salesAmount": 2400
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "shopName": "IslandHaze",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SFIVER DK GREY",
+            "quantity": 1,
+            "salesAmount": 1200
+          }
+        ]
+      },
+      {
+        "id": 96,
+        "shopName": "IslandHaze",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DOTTY SS22",
+            "quantity": 19,
+            "salesAmount": 13300
+          }
+        ]
+      },
+      {
+        "id": 97,
+        "shopName": "IslandHaze",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DYLAN HIGHWAIST",
+            "quantity": 1,
+            "salesAmount": 1300
+          }
+        ]
+      },
+      {
+        "id": 98,
+        "shopName": "IslandHaze",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "GFIVER LEATHER P",
+            "quantity": 2,
+            "salesAmount": 2400
+          }
+        ]
+      },
+      {
+        "id": 99,
+        "shopName": "IslandHaze",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SFIVER DK GREY",
+            "quantity": 9,
+            "salesAmount": 10800
+          }
+        ]
+      },
+      {
+        "id": 100,
+        "shopName": "IslandHaze",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DOTTY SS22",
+            "quantity": 14,
+            "salesAmount": 9800
+          }
+        ]
+      },
+      {
+        "id": 101,
+        "shopName": "IslandHaze",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DYLAN HIGHWAIST",
+            "quantity": 13,
+            "salesAmount": 16900
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "shopName": "IslandHaze",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "GFIVER LEATHER P",
+            "quantity": 5,
+            "salesAmount": 6000
+          }
+        ]
+      },
+      {
+        "id": 103,
+        "shopName": "IslandHaze",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SFIVER DK GREY",
+            "quantity": 3,
+            "salesAmount": 3600
+          }
+        ]
+      },
+      {
+        "id": 104,
+        "shopName": "IslandHaze",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DOTTY SS22",
+            "quantity": 9,
+            "salesAmount": 6300
+          }
+        ]
+      },
+      {
+        "id": 105,
+        "shopName": "IslandHaze",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DYLAN HIGHWAIST",
+            "quantity": 6,
+            "salesAmount": 7800
+          }
+        ]
+      },
+      {
+        "id": 106,
+        "shopName": "IslandHaze",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "GFIVER LEATHER P",
+            "quantity": 3,
+            "salesAmount": 3600
+          }
+        ]
+      },
+      {
+        "id": 107,
+        "shopName": "IslandHaze",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SFIVER DK GREY",
+            "quantity": 1,
+            "salesAmount": 1200
+          }
+        ]
+      },
+      {
+        "id": 108,
+        "shopName": "IslandHaze",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DOTTY SS22",
+            "quantity": 15,
+            "salesAmount": 10500
+          }
+        ]
+      },
+      {
+        "id": 109,
+        "shopName": "IslandHaze",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DYLAN HIGHWAIST",
+            "quantity": 17,
+            "salesAmount":22100
+          }
+        ]
+      },
+      {
+        "id": 110,
+        "shopName": "IslandHaze",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "GFIVER LEATHER P",
+            "quantity": 20,
+            "salesAmount": 24000
+          }
+        ]
+      },
+      {
+        "id": 111,
+        "shopName": "IslandHaze",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SFIVER DK GREY",
+            "quantity": 24,
+            "salesAmount": 28800
+          }
+        ]
+      },
+      {
+        "id": 112,
+        "shopName": "IslandHaze",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DOTTY SS22",
+            "quantity": 3,
+            "salesAmount": 2100
+          }
+        ]
+      },
+      {
+        "id": 113,
+        "shopName": "IslandHaze",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DYLAN HIGHWAIST",
+            "quantity": 12,
+            "salesAmount": 15600
+          }
+        ]
+      },
+      {
+        "id": 114,
+        "shopName": "IslandHaze",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "GFIVER LEATHER P",
+            "quantity": 9,
+            "salesAmount": 10800
+          }
+        ]
+      },
+      {
+        "id": 115,
+        "shopName": "IslandHaze",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SFIVER DK GREY",
+            "quantity": 4,
+            "salesAmount": 4800
+          }
+        ]
+      },
+      {
+        "id": 116,
+        "shopName": "WoolWorths",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 AC POPOVER TOP",
+            "quantity": 5,
+            "salesAmount": 5875
+          }
+        ]
+      },
+      {
+        "id": 117,
+        "shopName": "WoolWorths",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "S23 3-4 PUFF SLV TIE",
+            "quantity": 8,
+            "salesAmount": 19600
+          }
+        ]
+      },
+      {
+        "id": 118,
+        "shopName": "WoolWorths",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 PKT THREE QUAR",
+            "quantity": 1,
+            "salesAmount": 1350
+          }
+        ]
+      },
+      {
+        "id": 119,
+        "shopName": "WoolWorths",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 SJ CORE GEO SHO",
+            "quantity": 5,
+            "salesAmount": 4000
+          }
+        ]
+      },
+      {
+        "id": 120,
+        "shopName": "WoolWorths",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 SMOCKED SLV TIE",
+            "quantity": 2,
+            "salesAmount": 1600
+          }
+        ]
+      },
+      {
+        "id": 121,
+        "shopName": "WoolWorths",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 AC POPOVER TOP",
+            "quantity": 0,
+            "salesAmount": 0
+          }
+        ]
+      },
+      {
+        "id": 122,
+        "shopName": "WoolWorths",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "S23 3-4 PUFF SLV TIE",
+            "quantity": 9,
+            "salesAmount": 10575
+          }
+        ]
+      },
+      {
+        "id": 123,
+        "shopName": "WoolWorths",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 PKT THREE QUAR",
+            "quantity": 2,
+            "salesAmount": 4900
+          }
+        ]
+      },
+      {
+        "id": 124,
+        "shopName": "WoolWorths",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 SJ CORE GEO SHO",
+            "quantity": 3,
+            "salesAmount": 4050
+          }
+        ]
+      },
+      {
+        "id": 125,
+        "shopName": "WoolWorths",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 SMOCKED SLV TIE",
+            "quantity": 6,
+            "salesAmount": 4800
+          }
+        ]
+      },
+      {
+        "id": 126,
+        "shopName": "WoolWorths",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 AC POPOVER TOP",
+            "quantity": 3,
+            "salesAmount": 5100
+          }
+        ]
+      },
+      {
+        "id": 127,
+        "shopName": "WoolWorths",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "S23 3-4 PUFF SLV TIE",
+            "quantity": 9,
+            "salesAmount": 10575
+          }
+        ]
+      },
+      {
+        "id": 128,
+        "shopName": "WoolWorths",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 PKT THREE QUAR",
+            "quantity": 2,
+            "salesAmount": 4900
+          }
+        ]
+      },
+      {
+        "id": 129,
+        "shopName": "WoolWorths",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 SJ CORE GEO SHO",
+            "quantity": 8,
+            "salesAmount": 10800
+          }
+        ]
+      },
+      {
+        "id": 130,
+        "shopName": "WoolWorths",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 SMOCKED SLV TIE",
+            "quantity": 6,
+            "salesAmount": 8100
+          }
+        ]
+      },
+      {
+        "id": 131,
+        "shopName": "WoolWorths",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 AC POPOVER TOP",
+            "quantity": 10,
+            "salesAmount": 8000
+          }
+        ]
+      },
+      {
+        "id": 132,
+        "shopName": "WoolWorths",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "S23 3-4 PUFF SLV TIE",
+            "quantity": 7,
+            "salesAmount": 11900
+          }
+        ]
+      },
+      {
+        "id": 133,
+        "shopName": "WoolWorths",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 PKT THREE QUAR",
+            "quantity": 3,
+            "salesAmount": 3525
+          }
+        ]
+      },
+      {
+        "id": 134,
+        "shopName": "WoolWorths",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 SJ CORE GEO SHO",
+            "quantity": 4,
+            "salesAmount": 9800
+          }
+        ]
+      },
+      {
+        "id": 135,
+        "shopName": "WoolWorths",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 SMOCKED SLV TIE",
+            "quantity": 6,
+            "salesAmount": 8100
+          }
+        ]
+      },
+      {
+        "id": 136,
+        "shopName": "WoolWorths",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 AC POPOVER TOP",
+            "quantity": 2,
+            "salesAmount": 1600
+          }
+        ]
+      },
+      {
+        "id": 137,
+        "shopName": "WoolWorths",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "S23 3-4 PUFF SLV TIE",
+            "quantity": 6,
+            "salesAmount": 10200
+          }
+        ]
+      },
+      {
+        "id": 138,
+        "shopName": "WoolWorths",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 PKT THREE QUAR",
+            "quantity": 5,
+            "salesAmount": 5875
+          }
+        ]
+      },
+      {
+        "id": 139,
+        "shopName": "WoolWorths",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 SJ CORE GEO SHO",
+            "quantity": 3,
+            "salesAmount": 7350
+          }
+        ]
+      },
+      {
+        "id": 140,
+        "shopName": "WoolWorths",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 SMOCKED SLV TIE",
+            "quantity": 9,
+            "salesAmount": 12150
+          }
+        ]
+      },
+      {
+        "id": 141,
+        "shopName": "WoolWorths",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 AC POPOVER TOP",
+            "quantity": 2,
+            "salesAmount": 1600
+          }
+        ]
+      },
+      {
+        "id": 142,
+        "shopName": "WoolWorths",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "S23 3-4 PUFF SLV TIE",
+            "quantity": 6,
+            "salesAmount": 10200
+          }
+        ]
+      },
+      {
+        "id": 143,
+        "shopName": "WoolWorths",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 PKT THREE QUAR",
+            "quantity": 3,
+            "salesAmount": 3525
+          }
+        ]
+      },
+      {
+        "id": 144,
+        "shopName": "WoolWorths",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 SJ CORE GEO SHO",
+            "quantity": 7,
+            "salesAmount": 17150
+          }
+        ]
+      },
+      {
+        "id": 145,
+        "shopName": "WoolWorths",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 SMOCKED SLV TIE",
+            "quantity": 1,
+            "salesAmount": 1350
+          }
+        ]
+      },
+      {
+        "id": 146,
+        "shopName": "WoolWorths",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 AC POPOVER TOP",
+            "quantity": 5,
+            "salesAmount": 4000
+          }
+        ]
+      },
+      {
+        "id": 147,
+        "shopName": "WoolWorths",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "S23 3-4 PUFF SLV TIE",
+            "quantity": 19,
+            "salesAmount": 32300
+          }
+        ]
+      },
+      {
+        "id": 148,
+        "shopName": "WoolWorths",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 PKT THREE QUAR",
+            "quantity": 2,
+            "salesAmount": 2350
+          }
+        ]
+      },
+      {
+        "id": 149,
+        "shopName": "WoolWorths",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 SJ CORE GEO SHO",
+            "quantity": 4,
+            "salesAmount": 9800
+          }
+        ]
+      },
+      {
+        "id": 150,
+        "shopName": "WoolWorths",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "SS23 SMOCKED SLV TIE",
+            "quantity": 6,
+            "salesAmount": 8100
+          }
+        ]
+      },
+      {
+        "id": 151,
+        "shopName": "QuikSilver",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Trackpant Joggers",
+            "quantity": 9,
+            "salesAmount": 16200
+          }
+        ]
+      },
+      {
+        "id": 152,
+        "shopName": "QuikSilver",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Tie Dye Stripe T-Shirt",
+            "quantity": 3,
+            "salesAmount": 4500
+          }
+        ]
+      },
+      {
+        "id": 153,
+        "shopName": "QuikSilver",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Great Otway Zip-Up Hoodie",
+            "quantity": 2,
+            "salesAmount": 2000
+          }
+        ]
+      },
+      {
+        "id": 154,
+        "shopName": "QuikSilver",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DBoys 8-16 Omni Logo Hoodie",
+            "quantity": 4,
+            "salesAmount": 9200
+          }
+        ]
+      },
+      {
+        "id": 155,
+        "shopName": "QuikSilver",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Taxer Beach Cruiser Shorts",
+            "quantity": 5,
+            "salesAmount": 5750
+          }
+        ]
+      },
+      {
+        "id": 156,
+        "shopName": "QuikSilver",
+        "date": "2023-07-17",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 8-16 Easy Day Joggers",
+            "quantity": 6,
+            "salesAmount": 5400
+          }
+        ]
+      },
+      {
+        "id": 157,
+        "shopName": "QuikSilver",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Trackpant Joggers",
+            "quantity": 1,
+            "salesAmount": 1800
+          }
+        ]
+      },
+      {
+        "id": 158,
+        "shopName": "QuikSilver",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Tie Dye Stripe T-Shirt",
+            "quantity": 3,
+            "salesAmount": 4500
+          }
+        ]
+      },
+      {
+        "id": 159,
+        "shopName": "QuikSilver",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Great Otway Zip-Up Hoodie",
+            "quantity": 2,
+            "salesAmount": 2000
+          }
+        ]
+      },
+      {
+        "id": 160,
+        "shopName": "QuikSilver",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DBoys 8-16 Omni Logo Hoodie",
+            "quantity": 9,
+            "salesAmount": 20700
+          }
+        ]
+      },
+      {
+        "id": 161,
+        "shopName": "QuikSilver",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Taxer Beach Cruiser Shorts",
+            "quantity": 5,
+            "salesAmount": 5750
+          }
+        ]
+      },
+      {
+        "id": 162,
+        "shopName": "QuikSilver",
+        "date": "2023-07-18",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 8-16 Easy Day Joggers",
+            "quantity": 16,
+            "salesAmount": 14400
+          }
+        ]
+      },
+      {
+        "id": 163,
+        "shopName": "QuikSilver",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Trackpant Joggers",
+            "quantity": 4,
+            "salesAmount": 7200
+          }
+        ]
+      },
+      {
+        "id": 164,
+        "shopName": "QuikSilver",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Tie Dye Stripe T-Shirt",
+            "quantity": 6,
+            "salesAmount": 9000
+          }
+        ]
+      },
+      {
+        "id": 165,
+        "shopName": "QuikSilver",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Great Otway Zip-Up Hoodie",
+            "quantity": 12,
+            "salesAmount": 12000
+          }
+        ]
+      },
+      {
+        "id": 166,
+        "shopName": "QuikSilver",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DBoys 8-16 Omni Logo Hoodie",
+            "quantity": 9,
+            "salesAmount": 43700
+          }
+        ]
+      },
+      {
+        "id": 167,
+        "shopName": "QuikSilver",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Taxer Beach Cruiser Shorts",
+            "quantity": 5,
+            "salesAmount": 5750
+          }
+        ]
+      },
+      {
+        "id": 168,
+        "shopName": "QuikSilver",
+        "date": "2023-07-19",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 8-16 Easy Day Joggers",
+            "quantity": 3,
+            "salesAmount": 2700
+          }
+        ]
+      },
+      {
+        "id": 169,
+        "shopName": "QuikSilver",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Trackpant Joggers",
+            "quantity": 7,
+            "salesAmount": 12600
+          }
+        ]
+      },
+      {
+        "id": 170,
+        "shopName": "QuikSilver",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Tie Dye Stripe T-Shirt",
+            "quantity": 3,
+            "salesAmount": 4500
+          }
+        ]
+      },
+      {
+        "id": 171,
+        "shopName": "QuikSilver",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Great Otway Zip-Up Hoodie",
+            "quantity": 2,
+            "salesAmount": 2000
+          }
+        ]
+      },
+      {
+        "id": 172,
+        "shopName": "QuikSilver",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DBoys 8-16 Omni Logo Hoodie",
+            "quantity": 9,
+            "salesAmount": 20700
+          }
+        ]
+      },
+      {
+        "id": 173,
+        "shopName": "QuikSilver",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Taxer Beach Cruiser Shorts",
+            "quantity": 5,
+            "salesAmount": 5750
+          }
+        ]
+      },
+      {
+        "id": 174,
+        "shopName": "QuikSilver",
+        "date": "2023-07-20",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 8-16 Easy Day Joggers",
+            "quantity": 4,
+            "salesAmount": 3600
+          }
+        ]
+      },
+      {
+        "id": 175,
+        "shopName": "QuikSilver",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Trackpant Joggers",
+            "quantity": 9,
+            "salesAmount": 16200
+          }
+        ]
+      },
+      {
+        "id": 176,
+        "shopName": "QuikSilver",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Tie Dye Stripe T-Shirt",
+            "quantity": 6,
+            "salesAmount": 9000
+          }
+        ]
+      },
+      {
+        "id": 177,
+        "shopName": "QuikSilver",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Great Otway Zip-Up Hoodie",
+            "quantity": 8,
+            "salesAmount": 8000
+          }
+        ]
+      },
+      {
+        "id": 178,
+        "shopName": "QuikSilver",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DBoys 8-16 Omni Logo Hoodie",
+            "quantity": 4,
+            "salesAmount": 18400
+          }
+        ]
+      },
+      {
+        "id": 179,
+        "shopName": "QuikSilver",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Taxer Beach Cruiser Shorts",
+            "quantity": 3,
+            "salesAmount": 3450
+          }
+        ]
+      },
+      {
+        "id": 180,
+        "shopName": "QuikSilver",
+        "date": "2023-07-21",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 8-16 Easy Day Joggers",
+            "quantity": 8,
+            "salesAmount": 7200
+          }
+        ]
+      },
+      {
+        "id": 181,
+        "shopName": "QuikSilver",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Trackpant Joggers",
+            "quantity": 15,
+            "salesAmount": 27000
+          }
+        ]
+      },
+      {
+        "id": 182,
+        "shopName": "QuikSilver",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Tie Dye Stripe T-Shirt",
+            "quantity": 9,
+            "salesAmount": 13500
+          }
+        ]
+      },
+      {
+        "id": 183,
+        "shopName": "QuikSilver",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Great Otway Zip-Up Hoodie",
+            "quantity": 5,
+            "salesAmount": 4500
+          }
+        ]
+      },
+      {
+        "id": 184,
+        "shopName": "QuikSilver",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DBoys 8-16 Omni Logo Hoodie",
+            "quantity": 4,
+            "salesAmount": 7200
+          }
+        ]
+      },
+      {
+        "id": 185,
+        "shopName": "QuikSilver",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Taxer Beach Cruiser Shorts",
+            "quantity": 5,
+            "salesAmount": 7500
+          }
+        ]
+      },
+      {
+        "id": 186,
+        "shopName": "QuikSilver",
+        "date": "2023-07-22",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 8-16 Easy Day Joggers",
+            "quantity": 6,
+            "salesAmount": 6000
+          }
+        ]
+      },
+      {
+        "id": 187,
+        "shopName": "QuikSilver",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Trackpant Joggers",
+            "quantity": 1,
+            "salesAmount": 2300
+          }
+        ]
+      },
+      {
+        "id": 188,
+        "shopName": "QuikSilver",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Tie Dye Stripe T-Shirt",
+            "quantity": 3,
+            "salesAmount": 3450
+          }
+        ]
+      },
+      {
+        "id": 189,
+        "shopName": "QuikSilver",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Great Otway Zip-Up Hoodie",
+            "quantity": 7,
+            "salesAmount": 6300
+          }
+        ]
+      },
+      {
+        "id": 190,
+        "shopName": "QuikSilver",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "DBoys 8-16 Omni Logo Hoodie",
+            "quantity": 4,
+            "salesAmount": 7200
+          }
+        ]
+      },
+      {
+        "id": 191,
+        "shopName": "QuikSilver",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 2-7 Taxer Beach Cruiser Shorts",
+            "quantity": 5,
+            "salesAmount": 5750
+          }
+        ]
+      },
+      {
+        "id": 192,
+        "shopName": "QuikSilver",
+        "date": "2023-07-23",
+        "status":"Pending",
+        "itemsSold": [
+          {
+            "itemName": "Boys 8-16 Easy Day Joggers",
+            "quantity": 2,
+            "salesAmount": 1800
+          }
+        ]
+      },
+      {
+    "id": 193,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-17",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "CHURIDHAR-GEORGETTE-LP CHURI LS-AVLI",
+        "quantity": 1,
+        "salesAmount": 6500
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-17",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "LAD KURTI-GOWN-RAYON-RANI",
+        "quantity": 3,
+        "salesAmount": 1800
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-17",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "BEACHWEAR-KAFTAN",
+        "quantity": 5,
+        "salesAmount": 4450
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-17",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "LEHENGAS-SATIN-SEMI-STITCH",
+        "quantity": 4,
+        "salesAmount": 6800
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-17",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "MENSWEAR-SEMI SHERWAN-PESHWARI-PESH",
+        "quantity": 2,
+        "salesAmount": 3400
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-17",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "MENSWEAR-SHERWANIS-CHURI-KRISH1",
+        "quantity": 2,
+        "salesAmount": 8600
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-18",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "CHURIDHAR-GEORGETTE-LP CHURI LS-AVLI",
+        "quantity": 2,
+        "salesAmount": 13000
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-18",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "LAD KURTI-GOWN-RAYON-RANI",
+        "quantity": 6,
+        "salesAmount": 3600
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-18",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "BEACHWEAR-KAFTAN",
+        "quantity": 5,
+        "salesAmount": 4450
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-18",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "LEHENGAS-SATIN-SEMI-STITCH",
+        "quantity": 4,
+        "salesAmount": 6800
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-18",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "MENSWEAR-SEMI SHERWAN-PESHWARI-PESH",
+        "quantity": 7,
+        "salesAmount": 30100
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-18",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "MENSWEAR-SHERWANIS-CHURI-KRISH1",
+        "quantity": 2,
+        "salesAmount": 8600
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-19",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "CHURIDHAR-GEORGETTE-LP CHURI LS-AVLI",
+        "quantity": 4,
+        "salesAmount": 400000
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-19",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "LAD KURTI-GOWN-RAYON-RANI",
+        "quantity": 3,
+        "salesAmount": 19500
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-19",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "BEACHWEAR-KAFTAN",
+        "quantity": 9,
+        "salesAmount": 5400
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-19",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "LEHENGAS-SATIN-SEMI-STITCH",
+        "quantity": 2,
+        "salesAmount": 1780
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-19",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "MENSWEAR-SEMI SHERWAN-PESHWARI-PESH",
+        "quantity": 3,
+        "salesAmount": 5100
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-19",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "MENSWEAR-SHERWANIS-CHURI-KRISH1",
+        "quantity": 1,
+        "salesAmount": 4300
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-20",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "CHURIDHAR-GEORGETTE-LP CHURI LS-AVLI",
+        "quantity": 2,
+        "salesAmount": 8600
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-20",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "LAD KURTI-GOWN-RAYON-RANI",
+        "quantity": 5,
+        "salesAmount": 3000
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-20",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "BEACHWEAR-KAFTAN",
+        "quantity": 6,
+        "salesAmount": 5340
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-20",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "LEHENGAS-SATIN-SEMI-STITCH",
+        "quantity": 3,
+        "salesAmount": 5100
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-20",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "MENSWEAR-SEMI SHERWAN-PESHWARI-PESH",
+        "quantity": 4,
+        "salesAmount": 17200
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-20",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "MENSWEAR-SHERWANIS-CHURI-KRISH1",
+        "quantity": 5,
+        "salesAmount": 21500
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-21",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "CHURIDHAR-GEORGETTE-LP CHURI LS-AVLI",
+        "quantity": 6,
+        "salesAmount": 600000
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-21",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "LAD KURTI-GOWN-RAYON-RANI",
+        "quantity": 7,
+        "salesAmount": 45500
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-21",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "BEACHWEAR-KAFTAN",
+        "quantity": 8,
+        "salesAmount": 4800
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-21",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "LEHENGAS-SATIN-SEMI-STITCH",
+        "quantity": 9,
+        "salesAmount": 8010
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-21",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "MENSWEAR-SEMI SHERWAN-PESHWARI-PESH",
+        "quantity": 1,
+        "salesAmount": 1700
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "shopName": "Jetha Tulsidas",
+    "date": "2023-07-21",
+    "status":"Pending",
+    "itemsSold": [
+      {
+        "itemName": "MENSWEAR-SHERWANIS-CHURI-KRISH1",
+        "quantity": 2,
+        "salesAmount": 200000
+      }
+    ]
+  },
+{
+  "id": 223,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-17",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP BURGUNDY DETACHABLE SLEEVES DRESS",
+      "quantity": 2,
+      "salesAmount": 3800
+    }
+  ]
+},
+{
+  "id": 224,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-17",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP LACE TATTOOAJE DRESS",
+      "quantity": 5,
+      "salesAmount": 7500
+    }
+  ]
+},
+{
+  "id": 225,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-17",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP VELVET OPEN BACK DRESS",
+      "quantity": 3,
+      "salesAmount": 5400
+    }
+  ]
+},
+{
+  "id": 226,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-17",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP MIRROR BALOON SLEEVES DRESS",
+      "quantity": 1,
+      "salesAmount": 1900
+    }
+  ]
+},
+{
+  "id": 227,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-17",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP SILVER SEQUIN BLAZER DRESS",
+      "quantity": 8,
+      "salesAmount": 16000
+    }
+  ]
+},
+{
+  "id": 228,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-17",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP PRINCESS DRESS",
+      "quantity": 4,
+      "salesAmount": 4800
+    }
+  ]
+},
+{
+  "id": 229,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-18",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP BURGUNDY DETACHABLE SLEEVES DRESS",
+      "quantity": 1,
+      "salesAmount": 1500
+    }
+  ]
+},
+{
+  "id": 230,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-18",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP LACE TATTOOAJE DRESS",
+      "quantity": 8,
+      "salesAmount": 14400
+    }
+  ]
+},
+{
+  "id": 231,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-18",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP VELVET OPEN BACK DRESS",
+      "quantity": 2,
+      "salesAmount": 3800
+    }
+  ]
+},
+{
+  "id": 232,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-18",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP MIRROR BALOON SLEEVES DRESS",
+      "quantity": 5,
+      "salesAmount": 10000
+    }
+  ]
+},
+{
+  "id": 233,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-18",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP SILVER SEQUIN BLAZER DRESS",
+      "quantity": 4,
+      "salesAmount": 4800
+    }
+  ]
+},
+{
+  "id": 234,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-18",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP PRINCESS DRESS",
+      "quantity": 3,
+      "salesAmount": 9600
+    }
+  ]
+},
+{
+  "id": 235,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-19",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP BURGUNDY DETACHABLE SLEEVES DRESS",
+      "quantity": 2,
+      "salesAmount": 3000
+    }
+  ]
+},
+{
+  "id": 236,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-19",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP LACE TATTOOAJE DRESS",
+      "quantity": 7,
+      "salesAmount": 12600
+    }
+  ]
+},
+{
+  "id": 237,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-19",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP VELVET OPEN BACK DRESS",
+      "quantity": 4,
+      "salesAmount": 7600
+    }
+  ]
+},
+{
+  "id": 238,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-19",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP MIRROR BALOON SLEEVES DRESS",
+      "quantity": 10,
+      "salesAmount": 20000
+    }
+  ]
+},
+{
+  "id": 239,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-19",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP SILVER SEQUIN BLAZER DRESS",
+      "quantity": 9,
+      "salesAmount": 10800
+    }
+  ]
+},
+{
+  "id": 240,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-19",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP PRINCESS DRESS",
+      "quantity": 1,
+      "salesAmount": 3200
+    }
+  ]
+},
+{
+  "id": 241,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-20",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP BURGUNDY DETACHABLE SLEEVES DRESS",
+      "quantity": 2,
+      "salesAmount": 3000
+    }
+  ]
+},
+{
+  "id": 242,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-20",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP LACE TATTOOAJE DRESS",
+      "quantity": 3,
+      "salesAmount": 5400
+    }
+  ]
+},
+{
+  "id": 243,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-20",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP VELVET OPEN BACK DRESS",
+      "quantity": 4,
+      "salesAmount": 7600
+    }
+  ]
+},
+{
+  "id": 244,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-20",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP MIRROR BALOON SLEEVES DRESS",
+      "quantity": 5,
+      "salesAmount": 10000
+    }
+  ]
+},
+{
+  "id": 245,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-20",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP SILVER SEQUIN BLAZER DRESS",
+      "quantity": 2,
+      "salesAmount": 2400
+    }
+  ]
+},
+{
+  "id": 246,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-20",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP PRINCESS DRESS",
+      "quantity": 8,
+      "salesAmount": 25600
+    }
+  ]
+},
+{
+  "id": 247,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-21",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP BURGUNDY DETACHABLE SLEEVES DRESS",
+      "quantity": 2,
+      "salesAmount": 3000
+    }
+  ]
+},
+{
+  "id": 248,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-21",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP LACE TATTOOAJE DRESS",
+      "quantity": 3,
+      "salesAmount": 5400
+    }
+  ]
+},
+{
+  "id": 249,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-21",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP VELVET OPEN BACK DRESS",
+      "quantity": 4,
+      "salesAmount": 7600
+    }
+  ]
+},
+{
+  "id": 250,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-21",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP MIRROR BALOON SLEEVES DRESS",
+      "quantity": 2,
+      "salesAmount": 4000
+    }
+  ]
+},
+{
+  "id": 251,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-21",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP SILVER SEQUIN BLAZER DRESS",
+      "quantity": 6,
+      "salesAmount": 7200
+    }
+  ]
+},
+{
+  "id": 252,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-21",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP PRINCESS DRESS",
+      "quantity": 1,
+      "salesAmount": 3200
+    }
+  ]
+},
+{
+  "id": 253,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-22",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP BURGUNDY DETACHABLE SLEEVES DRESS",
+      "quantity": 5,
+      "salesAmount": 7500
+    }
+  ]
+},
+{
+  "id": 254,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-22",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP LACE TATTOOAJE DRESS",
+      "quantity": 3,
+      "salesAmount": 5400
+    }
+  ]
+},
+{
+  "id": 255,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-22",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP VELVET OPEN BACK DRESS",
+      "quantity": 8,
+      "salesAmount": 15200
+    }
+  ]
+},
+{
+  "id": 256,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-22",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP MIRROR BALOON SLEEVES DRESS",
+      "quantity": 4,
+      "salesAmount": 8000
+    }
+  ]
+},
+{
+  "id": 257,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-22",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP SILVER SEQUIN BLAZER DRESS",
+      "quantity": 2,
+      "salesAmount": 2400
+    }
+  ]
+},
+{
+  "id": 258,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-22",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP PRINCESS DRESS",
+      "quantity": 1,
+      "salesAmount": 3200
+    }
+  ]
+},
+{
+  "id": 259,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-23",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP BURGUNDY DETACHABLE SLEEVES DRESS",
+      "quantity": 7,
+      "salesAmount": 10500
+    }
+  ]
+},
+{
+  "id": 260,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-23",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP LACE TATTOOAJE DRESS",
+      "quantity": 4,
+      "salesAmount": 7200
+    }
+  ]
+},
+{
+  "id": 261,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-23",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP VELVET OPEN BACK DRESS",
+      "quantity": 1,
+      "salesAmount": 1900
+    }
+  ]
+},
+{
+  "id": 262,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-23",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP MIRROR BALOON SLEEVES DRESS",
+      "quantity": 2,
+      "salesAmount": 4000
+    }
+  ]
+},
+{
+  "id": 263,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-23",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP SILVER SEQUIN BLAZER DRESS",
+      "quantity": 8,
+      "salesAmount": 9600
+    }
+  ]
+},
+{
+  "id": 264,
+  "shopName": "Oui Oui Fashion",
+  "date": "2023-07-23",
+  "status":"Pending",
+  "itemsSold": [
+    {
+      "itemName": "VIP PRINCESS DRESS",
+      "quantity": 3,
+      "salesAmount": 9600
+    }
+  ]
+}
+]  

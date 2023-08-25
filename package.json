@@ -1,0 +1,15 @@
+{
+  "name": "sales-shop-app-api",
+  "version": "1.0.0",
+  "description": "sales shop api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "pp",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
